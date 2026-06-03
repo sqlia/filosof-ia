@@ -11,7 +11,7 @@ La idea no es quedarnos en el diagnóstico, sino empujar hacia lo que está en n
 📅 Sábado 6 de junio, 10:30 hs
 📍 Cafetería Kaffarte → https://share.google/NC4ynHjF2gZ2uHuhd
 
-Link con más detalle y lecturas sugeridas (no hace falta leer, pero sería ideal). 
+Documento con más detalle y lecturas sugeridas (no hace falta leer, pero sería ideal): `./event-invite.md`
 Intenten venir con una postura para cada pregunta.
 
 Cualquier cosa me avisan. 
