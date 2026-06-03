@@ -1,9 +1,10 @@
-# Encuentro: ¿Qué hacemos con la IA?
-### Un debate (accionable) sobre el impacto de la inteligencia artificial en la sociedad
+# Encuentro:  Debate sobre el impacto de la IA en la sociedad
 
-Hola a todas y todos,
+### Un debate ¿accionable? sobre el impacto de la inteligencia artificial en la sociedad
 
-Les comparto la propuesta y algunos materiales para que lleguemos con una base común. La idea **no** es quedarnos en el diagnóstico ni en el lamento, sino empujar el debate hacia lo **accionable**: ¿qué está, efectivamente, dentro de nuestro radio de control —como desarrolladoras, investigadores, docentes y comunidad— y qué podemos hacer al respecto?
+Buenas!
+
+Les comparto la propuesta y algunos materiales de lectura para que lleguemos con una base común. La idea **no** es quedarnos en el diagnóstico ni en el lamento, sino empujar el debate hacia lo **accionable**: ¿qué está, efectivamente, dentro de nuestro radio de control —como desarrolladoras, investigadores, docentes y comunidad— y qué podemos hacer al respecto?
 
 Vamos a llevar dos preguntas disparadoras. La consigna es animarse a responderlas con propuestas concretas.
 
@@ -36,7 +37,7 @@ El pasaje clave de la encíclica (§110):
 
 ## Para llegar con base: lecturas
 
-Agrupé los materiales por hilo temático. No hace falta leer todo: con que cada quien venga con algo masticado, alcanza.
+Agrupé los materiales por hilo temático. No hace falta leer todo: con que cada quien venga con algo leído, alcanza.
 
 ### La encíclica (el punto de partida)
 - **Magnifica Humanitas — León XIV** (Vaticano): la carta completa; el §110 es el que nos convoca.
@@ -77,6 +78,6 @@ León XIV tiene un *Bachelor's Degree* en Matemática. Que la primera encíclica
 - **Dónde:** Cafetería **Kaffarte** — <https://share.google/NC4ynHjF2gZ2uHuhd>
 - **Qué traer:** una postura (aunque sea provisoria) para cada una de las dos preguntas, idealmente con alguna propuesta accionable.
 
-Nos vemos —va a estar bueno.
+¡Nos vemos el Sábado!
 
-*Diego*
+:hedgegog:
